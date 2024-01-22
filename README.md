@@ -1,6 +1,7 @@
 # Happy-New-Year-2024
 Creating a Happy New Year 2024 with HTML and CSS
 
+## Wishes
 **Happy New Year 2024! 🎉 May this year bring you joy, success, good health, and memorable moments. May you achieve your goals and embark on new adventures. May each day be filled with positivity and inspiration. Wishing you and your loved ones a wonderful year ahead, full of love, laughter, and prosperity! Cheers to new beginnings and exciting possibilities!🌟**
 
 ## Demo
@@ -20,5 +21,7 @@ Celebrate your victories, learn from challenges, and toast to every line of code
 May your terminal always be green, your builds always pass, and your code reviews be filled with thumbs up.
 
 Happy coding and Happy New Year 2024! 
+
+## Contribution
 
 Feel free to customize this template to match the tone and style of your project. Happy coding in the new year! 🚀✨
