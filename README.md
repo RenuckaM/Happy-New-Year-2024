@@ -20,3 +20,5 @@ Celebrate your victories, learn from challenges, and toast to every line of code
 May your terminal always be green, your builds always pass, and your code reviews be filled with thumbs up.
 
 Happy coding and Happy New Year 2024! 
+
+Feel free to customize this template to match the tone and style of your project. Happy coding in the new year! 🚀✨
