@@ -5,7 +5,7 @@ Creating a Happy New Year 2024 with HTML and CSS
 
 ## Demo
 
-Wishing you a joyous and prosperous New Year! [Explore here!]()
+Wishing you a joyous and prosperous New Year! [Explore here!](https://renuckam.github.io/Happy-New-Year-2024/)
 
 ## Output Snapshots
 
